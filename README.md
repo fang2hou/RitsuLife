@@ -4,4 +4,15 @@ Anonymous schedule &amp; chat  iOS app designed for students from Ritsumeikan Un
 # About project
 This application is written by Swift.
 
-Compared with other schedule applicaions for students at Ritsumeikan University, I want to make an AD-free and easy to use with high performance.         
+# Advantages
+- No Ads.
+- Easy to use without tutorial.
+- Anoymous chat with classmates.
+- Open-source and 100% Swift.
+
+* Compared with other schedule apps for students of Ritsumeikan University.
+
+# Join the team
+Contact ot me with Email
+
+is0385rx#ed.ritsumei.ac.jp (#->@)

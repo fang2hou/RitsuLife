@@ -47,6 +47,7 @@
 		C222C9DF1E717CC100D7C657 /* RitsuLifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RitsuLifeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C222C9E31E717CC100D7C657 /* RitsuLifeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RitsuLifeUITests.swift; sourceTree = "<group>"; };
 		C222C9E51E717CC100D7C657 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C2F86ECE1E71850F0030CC5F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 				C222C9D71E717CC100D7C657 /* RitsuLifeTests */,
 				C222C9E21E717CC100D7C657 /* RitsuLifeUITests */,
 				C222C9C11E717CC100D7C657 /* Products */,
+				C2F86ECE1E71850F0030CC5F /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -514,6 +516,7 @@
 				C222C9EA1E717CC100D7C657 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C222C9EB1E717CC100D7C657 /* Build configuration list for PBXNativeTarget "RitsuLifeTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +525,7 @@
 				C222C9ED1E717CC100D7C657 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C222C9EE1E717CC100D7C657 /* Build configuration list for PBXNativeTarget "RitsuLifeUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +534,7 @@
 				C222C9F01E717CC100D7C657 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
