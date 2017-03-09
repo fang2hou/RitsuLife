@@ -1,5 +1,5 @@
 # RitsuLife
-Anonymous schedule &amp; chat  iOS app designed for students from Ritsumeikan Univ.
+Anonymous schedule &amp; chat  iOS app designed for students in Ritsumeikan Univ.
 
 # About project
 This application is written by Swift.
@@ -13,7 +13,8 @@ This application is written by Swift.
 - Open-source and 100% Swift.
 - Support English, Chinese, Japanese and Korean.
 
-Compared with other schedule apps for students from Ritsumeikan University.
+Compared with other schedule apps for students in Ritsumeikan University.
 
-# Join the team
-is0385rx#ed.ritsumei.ac.jp (#->@)
+# Join
+1. Fork me, and pull request.
+2. is0385rx#ed.ritsumei.ac.jp (#->@)
